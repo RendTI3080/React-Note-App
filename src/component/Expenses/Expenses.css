@@ -1,0 +1,19 @@
+.expenses {
+  padding: 1rem;
+  background-color: rgb(31, 31, 31);
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+}
+
+.expenses .get-started{
+  text-align: center;
+  color: white;
+}
+
+.not-found__expenses{
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
